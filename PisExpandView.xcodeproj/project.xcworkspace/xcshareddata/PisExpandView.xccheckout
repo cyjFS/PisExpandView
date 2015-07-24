@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7B58D114-6520-43C1-AE82-14E9E514392D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PisExpandView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7220F1A7AD159DB58C7D9FA4B189AA9ACDD9C185</key>
+		<string>https://github.com/cyjFS/PisExpandView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PisExpandView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7220F1A7AD159DB58C7D9FA4B189AA9ACDD9C185</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cyjFS/PisExpandView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7220F1A7AD159DB58C7D9FA4B189AA9ACDD9C185</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7220F1A7AD159DB58C7D9FA4B189AA9ACDD9C185</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PisExpandView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
